@@ -1,3 +1,4 @@
+new info
 ---
 layout: page
 title: Setup
